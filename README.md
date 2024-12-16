@@ -1,8 +1,7 @@
-# React + Vite
+# WebOS
+I made this project because I thought it was going to be a lot more complicated and a cool showcase of skill. It took me two hours.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Setting up
+The public directory has an apps section, just increment each folder by one so the website can find it, then modify the config file in each folder and edit the HTML.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Because each folder has its own app directory and uses HTML, the possibilities are endless, go crazy.
