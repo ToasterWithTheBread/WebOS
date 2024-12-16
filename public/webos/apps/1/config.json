@@ -1,4 +1,16 @@
 {
     "name": "About",
-    "icon_color": "red-600"
+    "icon_color": "red-600",
+
+    "type": "html",
+
+    "start_height": "10rem",
+    "start_width": "20rem",
+
+    "start_margin_left": "33rem",
+    "start_margin_top": "10rem",
+
+    "border_radius": "10px",
+
+    "background_rgba": [255, 0, 0, 0.5]
 }
